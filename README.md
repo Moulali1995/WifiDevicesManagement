@@ -1,2 +1,0 @@
-# Openwifi
-Created with CodeSandbox
