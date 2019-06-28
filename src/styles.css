@@ -23,3 +23,11 @@
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
 }
+
+table,
+td,
+th,
+tr {
+  align-content: center;
+  border: 1px solid black;
+}
