@@ -2,5 +2,9 @@
 Created with CodeSandbox
 
 A fullstack application developed using MERN stack.
-Application functionalities are to display devices to the client and controls to admin.
+Portal to display devices to the client and devices & controls to the admin.
 Admin can switch on/off, restart, add and delete the devices.
+
+Live Demo
+Client : https://87ef4.codesandbox.io/
+Server : https://repl.it/@MoulaliM/Openwifidevices
