@@ -1,8 +1,8 @@
-# Openwifi
+# WifiDevicesManagement
 Created with CodeSandbox
 
 A fullstack application developed using MERN stack.
-Portal to display devices to the client and devices & controls to the admin.
+Portal to display devices to the client and additional controls to the admin.
 Admin can switch on/off, restart, add and delete the devices.
 
 Live Demo
